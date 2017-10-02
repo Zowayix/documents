@@ -1,0 +1,287 @@
+Normal|Fighting|Fire|Water|Ice|Electric|Grass|Dragon|Fairy|Dark|Steel|Ghost|Psychic|Bug|Flying|Rock|Ground|Poison
+
+Battle Maison Singles or randoms
+	--Weaknesses of Azumarill + Hydreigon:
+		-- Electric, Grass, Poison, Fighting, Fairy, Ice, Dragon, Bug
+	Gengar @ Gengarite
+		- Shadow Ball
+		- Dazzling Gleam
+		- Destiny Bond
+		- Substitute
+		= Timid 4 HP / 252 SpA / 252 Spe
+		= Levitate -> Shadow Tag
+			- Weak: Ghost, Dark, Psychic, Ground (Mega)
+			- Res: Normal+, Fighting+, Bug+, Grass, Fairy, Ground+ (base), Poison+
+	Volcarona @ Lefties/Life Orb
+		- Quiver Dance
+		- Roost
+		- Bug Buzz
+		- Fiery Dance
+		= Timid 240 HP / 252 Def / 16 Spe
+		= Flame Body
+			- Weak: Flying, Water, Rock+
+			- Res: Grass+, Fighting, Ice, Bug, Fairy, Steel
+	Scizor @ Scizorite
+		- Swords Dance
+		- Bullet Punch
+		- Knock Off
+		- Superpower
+		= Adamant 252 Atk / 4 SpD / 252 Spe
+		= Light Metal -> Technician
+			- Weak: Fire+
+			- Res: Poison+, Grass+, Fairy, Ice, Normal, Dragon, Steel, Psychic, Bug
+	Darmanitan @ Life Orb
+		- Flare Blitz (maybe Fire Punch)
+		- Rock Slide
+		- Bulk Up
+		- Earthquake
+		= Jolly 4 HP / 252 Atk / 252 Spe
+		= Sheer Force
+			- Weak: Water, Rock, Ground
+			- Res: Fire, Fairy, Bug, Grass, Steel
+	Aegislash @ Lefties
+		- Shadow Ball
+		- King's Shield
+		- Shadow Sneak
+		- Flash Cannon
+		= Quiet 244 HP / 12 Def / 252 SpA
+		= Stance Change
+			- Weak: Ground, Ghost, Dark, Fire
+			- Res: Normal+, Fighting+, Ice, Grass, Dragon, Fairy, Steel, Psychic, Bug, Flying, Rock, Poison+
+	Chandelure @ Lefties
+		- Calm Mind
+		- Shadow Ball
+		- Flamethrower
+		- Substitute
+		= Timid 4 HP / 252 SpA / 252 Spe
+		= Flash Fire
+			- Weak: Water, Dark, Ghost, Rock, Ground
+			- Res: Normal+, Fighting+, Fire+, Ice, Grass, Fairy, Steel, Bug+, Poison
+	Mawile @ Mawilite
+		- Play Rough
+		- Sucker Punch
+		- Substitute
+		- Focus Punch
+		= Adamant 4 HP / 252 Atk / 252 Spe
+		= Intimidate -> Huge Power
+			- Weak: Fire, Ground
+			- Res: Normal, Ice, Grass, Dragon+, Fairy, Dark, Psychic, Bug+, Flying, Rock, Poison+
+			- Takes 40 from Low Kick
+	Metagross @ Life Orb
+		- Agility
+		- Meteor Mash
+		- Earthquake
+		- Zen Headbutt
+		= Jolly 4 HP / 252 Atk / 252 Spe
+		= Clear Body
+			- Weak: Fire, Dark, Ghost, Ground
+			- Res: Normal, Ice, Grass, Dragon, Fairy, Steel, Psychic, Flying, Rock, Poison+
+			- Takes 120 from Low Kick (even with Light Metal)
+			- Immune to Sky Drop
+	v-- Would create duplicate weaknesses
+	Greninja @ Life Orb
+		- Surf
+		- Ice Beam
+		- Dark Pulse
+		- Extrasensory
+		= Timid 4 HP / 252 SpA / 252 Spe
+		= Protean
+	Gyarados @ Gyaradosite (can be momentarily swapped out for Life Orb if other Mega is preferred at the time)
+		- Dragon Dance
+		- Waterfall
+		- Taunt
+		- Earthquake
+		= Adamant 252 Atk / 4 Def / 252 Spe
+		= Intimidate -> Mold Breaker
+	Pinsir @ Pinsirite
+		- Swords Dance
+		- Quick Attack
+		- Return
+		- Earthquake
+		= Jolly 252 Atk / 4 Def / 252 Spe
+		= Hyper Cutter -> Aerialate
+	Tyranitar @ Tyranitarite
+		- Dragon Dance
+		- Crunch
+		- Ice Punch
+		- Earthquake
+		= Jolly 252 Atk / 4 Def / 252 Spe
+		= Sand Stream
+	Talonflame @ Life Orb
+		- Flare Blitz
+		- Brave Bird
+		- U-Turn
+		- Roost
+		= Adamant 252 Atk / 4 Def / 252 Spe
+		= Gale Wings
+	Charizard @ Charizardite X
+		- Dragon Dance
+		- Dragon Claw
+		- Flare Blitz
+		- Roost
+		= Jolly 4 HP / 252 Atk / 252 Spe
+		= 420 BLAZEITO -> Tough Claws
+		
+Dream World
+0 points: NidoranF, Shinx, Gastly, Tangela (good one this time)
+2500: Butterfree, Murkrow, Gligar
+5000: Slowpoke, Shellder, Magikarp, Wooper, Remoraid
+7500: Carvanha, Feebas, Anorith, Smeargle, Beldum, Spinda
+10000: Dratini, Vulpix, Poliwag, Natu, Abra, Sableye, Bagon
+
+Females already sent: Bidoof, Spoink, Mawile, Houndour, Sunkern
+3500 points: Diglett digs 5 rows
+Ellipsis: 0-99
+Face: 100-299
+Note: 300-499
+Heart: 500+
+10
+Ice cream mini-game: Scoop-Sticky
+Cheri-Leppa group: 3-5
+Lum:		   4-5
+Type resist group: 5-3
+Stat pinch group:  5-4
+Other pinch group: 5-4, 3-5
+Enigma Berry:	   5-5
+
+
+In-game events, Entralink males/legendaries, etc: Soft reset until get at least these stats
+Good characteristics: Often dozes off, Likes to thrash about, Capable of taking hits, mischevious, somewhat vain, alert to sounds
+Reshiram L100
+	Timid: 341 HP / 248 Atk / 236 Def / 336 SpA / 276 SpD / 237 Spe
+	Hasty: "      / 276 Atk / 212 Def / "       / "	      / "
+	Mild:  "      / "       / "       / 369 SpA / "	      / 216 Spe
+	Modest:"      / 248 Atk / 236 Def / "	    / "	      / "
+	Naive: "      / 276 Atk / "   	  / 336 SpA / 248 SpD / 237 Spe
+	Rash:  "      / "       / " 	  / 369 SpA / "	      / 216 Spe
+Arceus L100
+	Timid: 380 HP / 265 Def+SpD / 270 SpA / 303 Spe
+
+Black2
+EV training: HP - Stunfisk * 2, Surf in Iccurus 100%; Attack - Golurk * 2, Dragonspiral Tower 2F 100%; Defense - Sandshrew / Yamask * 1; Relic Castle 1F 60%, SpA - Litwick * 1, Celestial Tower 2F 100%; SpD - Frillish * 1, Surf in Route 4 100%; Speed - Basculin * 2, Surf in Route 1 100%
+
+Little Cup
+	- Axew @ Eviolite
+		- Mold Breaker, Jolly
+		- Dragon Dance
+		- Dragon Claw
+		- Aqua Tail
+		- Superpower
+	- Mienfoo @ Life Orb
+		- Regenerator, Jolly
+		- Hi Jump Kick
+		- U-turn
+		- Stone Edge
+		- Fake Out
+	- Houndour @ Life Orb
+		- Flash Fire, Mild / Rash
+		- Dark Pulse
+		- Fire Blast
+		- Substitute
+		- Sucker Punch
+
+Black
+GRIND SUBWAY UNTIL GET ALL POWER ITEMS
+EV training: HP - Stunfisk, Surf in Iccirus *2; Attack - Route 1; Def - Wellspring Cave (50%); SpA - Celestial Tower 2F-5F, SpD - Surf in Driftveil, Spe - Surf in Striaton *2
+	- Random stuff
+		Reuniclus w/ Life Orb
+		Magic Guard - Bold -
+			Shadow Ball (TM)
+			Calm Mind (TM)
+			Recover (Level 24)
+			Psyshock (Level 25)
+		Scrafty w/ Lefties
+		Moxie - Jolly -
+			Dragon Dance (Breed from Axew)
+			Hi Jump Kick (31)
+			Crunch (38)
+			Ice Punch (
+		Volcarona
+		Flame Body - Bold
+			Quiver Dance (
+			?
+			?
+			?
+		Haxorus
+		Mold Breaker -
+			?
+			?
+			?
+			?
+	- Battle Subway Single
+		Latios w/ Leftovers
+		Levitate - Timid
+			Calm Mind
+			Psyshock
+			Thunderbolt
+			Ice Beam
+
+		Tyranitar
+		Sand Stream - Jolly
+			Dragon Dance
+			Crunch
+			Rock Slide
+			Fire Punch
+		4 HP / 252 Atk / 252 Spe
+		2 Stunfisk@Iccirus, 10 Protein + 152 Any@Route 1, 10 Carbos + 76 Basculin@Striaton
+
+		Excadrill
+		Sand Rush -
+			Earthquake
+			Swords Dance
+			Rock Slide
+			Shadow Claw
+
+Emerald
+	- Held items worth giving a crap about (* - One use):
+		- Light Ball
+		- Thick Club
+		- Choice Band
+		- Leftovers
+		- Quick Claw
+		- Lum Berry*
+	- Only if you have nothing else to hold:
+		- Shell Bell
+		- Focus Band
+		- Scope Lens
+		- BrightPowder (and by extension Lax Incense)
+		- King's Rock (NB: Only affects "vanilla" moves)
+	- Can use clone glitch to get 999999 copies of normally one-only items (but can only use one each per "session")
+	- Tower
+		- Wait until apprentice is ready (give her stupid ideas)
+		- Anabel's pokeymans (and their ideal counters)
+		- Raikou w/ Thunderbolt, CM, Reflect, LumRest
+			- Flygon should nuke this with ease (might even be faster due to EVs/IVs)
+		- Latios w/ BrightPowder, Psychic, Dragon Claw, CM, Recover
+			- Dark type of course
+			- Probably Tyranitar or perhaps Houndoom
+		- Snorlax w/ Curse, Return, ChestyRest, Shadow Ball
+			- Tyranitar fo sho (with some Fighting attacks)
+		- Mine
+			- Flygon
+				- Earthquake
+				- Dragon to the Claw
+				- Rock to the Slide
+				- Fire to the Blast
+			- Tyranitar
+				- Rock Slide
+				- Crunch
+				- Dragon Dance (why not)
+				- Brick Break
+			- Something (special based for balance purposes) to cover their weaknesses
+				- Uncovered weaknesses of Flygon and TTar: Ice, Dragon, Fighting, Bug, Steel (lol), Water, Grass
+				- Stuff from OU/BL (with score, num types covered (counting immunities as 2)- num types uncovered):
+				- Starmie covers Ice, Fighting, Water, Steel (but opens Grass, Bug weakness) 4 - 2 = 2
+				- Gengar covers Fighting, Bug, Grass (and I already have one ready for use) 4 - 0 = 4
+				- Zapdos covers Fighting, Bug, Steel, Grass, sort of Water (but opens Ice weakness, albeit this is almost covered by TTar) 5 - 1 = 4
+				- Metagross (it can be mixed) covers Fighting, Ice, Dragon, Steel, Grass 5 - 0 = 5
+				- Charizard/Moltres covers Ice, Fighting, Bug, Steel, Grass (but opens Water weakness) 5 - 1 = 4
+	- Pyramid
+		- These are all weak to Rock, so feasible to use 1..2 for these and then Blissey for healing
+		- Articuno w/ Scope Lens, Blizzard, Water Pulse, Aerial Ace, Reflect
+		- Zapdos w/ Lum, Thunder (lol), Drill Peck, Detect, Light Screen
+		- Moltres w/ BrightPowder, Fire Blast, Aerial Ace, Hyper Beam (lol), Safeguard
+		- Articuno has Water Pulse, which may present a problem with slower Rock types (read: Not Aerodactyl)
+		- Aerodactyl has glaring Blizzard and Thunder weakness
+	- Common
+		- Remember we can use cloning to get around four-moveslot syndrome (but cannot use two of same species in one round)
